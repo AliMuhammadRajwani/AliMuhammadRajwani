@@ -31,6 +31,58 @@
 
 
 
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="600" fill="#f0f0f0" />
+
+  <!-- Text - GitHub Description -->
+  <text x="50" y="50" font-size="24" font-weight="bold">Welcome to My GitHub Profile</text>
+
+  <!-- Animated Skills Bars - Example (Modify as per your actual skills) -->
+  <!-- Skill: Python -->
+  <rect x="50" y="100" width="0" height="30" fill="#1f77b4">
+    <animate attributeName="width" from="0" to="300" dur="2s" fill="freeze" />
+  </rect>
+  <text x="360" y="122" font-size="16" fill="#1f77b4">Python</text>
+
+  <!-- Skill: JavaScript -->
+  <rect x="50" y="150" width="0" height="30" fill="#ff7f0e">
+    <animate attributeName="width" from="0" to="250" dur="2s" fill="freeze" begin="1s" />
+  </rect>
+  <text x="310" y="172" font-size="16" fill="#ff7f0e">JavaScript</text>
+
+  <!-- Skill: HTML/CSS -->
+  <rect x="50" y="200" width="0" height="30" fill="#2ca02c">
+    <animate attributeName="width" from="0" to="280" dur="2s" fill="freeze" begin="2s" />
+  </rect>
+  <text x="340" y="222" font-size="16" fill="#2ca02c">HTML/CSS</text>
+
+  <!-- Skill: C++ -->
+  <rect x="50" y="250" width="0" height="30" fill="#d62728">
+    <animate attributeName="width" from="0" to="200" dur="2s" fill="freeze" begin="3s" />
+  </rect>
+  <text x="260" y="272" font-size="16" fill="#d62728">C++</text>
+
+  <!-- Skill: Git -->
+  <rect x="50" y="300" width="0" height="30" fill="#9467bd">
+    <animate attributeName="width" from="0" to="150" dur="2s" fill="freeze" begin="4s" />
+  </rect>
+  <text x="210" y="322" font-size="16" fill="#9467bd">Git</text>
+
+  <!-- Skill: Docker -->
+  <rect x="50" y="350" width="0" height="30" fill="#8c564b">
+    <animate attributeName="width" from="0" to="180" dur="2s" fill="freeze" begin="5s" />
+  </rect>
+  <text x="240" y="372" font-size="16" fill="#8c564b">Docker</text>
+
+  <!-- Skill: PostgreSQL -->
+  <rect x="50" y="400" width="0" height="30" fill="#e377c2">
+    <animate attributeName="width" from="0" to="220" dur="2s" fill="freeze" begin="6s" />
+  </rect>
+  <text x="280" y="422" font-size="16" fill="#e377c2">PostgreSQL</text>
+
+</svg>
 
 
 
