@@ -31,54 +31,47 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Animated GitHub Profile Name</title>
-<style>
-  /* Basic styles */
-  body {
-    background-color: #f0f0f0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  .profile-name {
-    font-size: 48px;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #333;
-    opacity: 0;
-    animation: fadeIn 2s forwards, moveIn 2s forwards;
-  }
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
-  @keyframes moveIn {
-    from {
-      transform: translateY(-50px);
-    }
-    to {
-      transform: translateY(0);
-    }
-  }
-</style>
-</head>
-<body>
-  <div class="profile-name">Ali Muhammed</div>
-</body>
-</html>
+
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text with gradient -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2E86C1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E74C3C;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      text {
+        font-family: Arial, sans-serif;
+        font-size: 40px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        fill: url(#grad);
+        animation: moveIn 2s forwards, colorChange 4s infinite alternate;
+      }
+      @keyframes moveIn {
+        from {
+          opacity: 0;
+          transform: translateY(-20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      @keyframes colorChange {
+        from {
+          fill: #2E86C1;
+        }
+        to {
+          fill: #E74C3C;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Animated text -->
+  <text x="50" y="60">Ali Muhammed</text>
+</svg>
 
 
 
