@@ -32,46 +32,7 @@
 
 
 
-<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Text with gradient -->
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2E86C1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#E74C3C;stop-opacity:1" />
-    </linearGradient>
-    <style>
-      text {
-        font-family: Arial, sans-serif;
-        font-size: 40px;
-        font-weight: bold;
-        letter-spacing: 2px;
-        fill: url(#grad);
-        animation: moveIn 2s forwards, colorChange 4s infinite alternate;
-      }
-      @keyframes moveIn {
-        from {
-          opacity: 0;
-          transform: translateY(-20px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
-      @keyframes colorChange {
-        from {
-          fill: #2E86C1;
-        }
-        to {
-          fill: #E74C3C;
-        }
-      }
-    </style>
-  </defs>
 
-  <!-- Animated text -->
-  <text x="50" y="60">Ali Muhammed</text>
-</svg>
 
 
 
