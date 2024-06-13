@@ -31,7 +31,7 @@
 
 
 
-[![Animated Name](video-thumbnail.jpg)](https://www.canva.com/design/DAGH-k2W95Y/lS059QB-N-HtNiEU3PkK_A/edit?utm_content=DAGH-k2W95Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Animated Name](video-thumbnail.jpg)]( https://www.canva.com/design/DAGH-k2W95Y/lS059QB-N-HtNiEU3PkK_A/edit?utm_content=DAGH-k2W95Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
