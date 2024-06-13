@@ -32,38 +32,4 @@
 
 
 
-<svg viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Title -->
-  <text x="50" y="40" font-size="24" font-weight="bold">Ali Muhammed's Tech Stack</text>
-
-  <!-- Programming & Web Design Skills -->
-  <text x="50" y="80" font-size="18" font-weight="bold">💻 Programming & Web Design Skills</text>
-  <text x="50" y="110" font-size="16">C++: ⭐⭐⭐⭐⭐</text>
-  <text x="200" y="110" font-size="16">C#: ⭐⭐⭐⭐⭐</text>
-  <text x="350" y="110" font-size="16">Python: ⭐⭐⭐⭐</text>
-  <text x="500" y="110" font-size="16">HTML: ⭐⭐⭐⭐⭐</text>
-  <text x="650" y="110" font-size="16">CSS: ⭐⭐⭐⭐⭐</text>
-  <text x="50" y="130" font-size="16">JavaScript: ⭐⭐⭐⭐⭐</text>
-
-  <!-- Best Frameworks and Libraries for Python3 -->
-  <text x="50" y="170" font-size="18" font-weight="bold">📚 Best Frameworks and Libraries for Python3</text>
-  <text x="50" y="200" font-size="16">PyTorch, Selenium, Numpy, Pandas, Sklearn, Matplotlib, OpenCV</text>
-
-  <!-- Tools for Data Manipulation -->
-  <text x="50" y="240" font-size="18" font-weight="bold">🛠 Tools for Data Manipulation</text>
-  <text x="50" y="270" font-size="16">Conda, Jupyter, Spark, MySQL, Postgres, SQLite</text>
-
-  <!-- Environments, Testing, Other -->
-  <text x="50" y="310" font-size="18" font-weight="bold">🔧 Environments, Testing, Other</text>
-  <text x="50" y="340" font-size="16">NodeJS, Git, Docker, Pytest, Swagger, Postman, Virtual Box, HardHat</text>
-
-  <!-- Operating Systems -->
-  <text x="50" y="380" font-size="18" font-weight="bold">❤️ Operating Systems</text>
-  <text x="50" y="410" font-size="16">Linux, Ubuntu, Kali</text>
-
-  <!-- Tools for CTF's -->
-  <text x="50" y="450" font-size="18" font-weight="bold">🔒 Tools for CTF's</text>
-  <text x="50" y="480" font-size="16">Metasploit, Wireshark, Burpsuite, Netcat, Nmap</text>
-
-</svg>
