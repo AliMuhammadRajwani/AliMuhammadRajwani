@@ -31,7 +31,7 @@
 
 
 
-[![Animated Name](video-thumbnail.jpg)]( https://www.canva.com/design/DAGH-k2W95Y/I7tyC22q5m96bIqnIKvXqw/watch )
+[![Animated Name](video-thumbnail.jpg)]( https://www.canva.com/design/DAGH-i6RBIU/xriWFaaJ65jWrr7RNQF4gw/watch?utm_content=DAGH-i6RBIU&utm_campaign=designshare&utm_medium=link&utm_source=editor )
 
 
 
