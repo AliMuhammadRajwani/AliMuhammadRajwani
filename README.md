@@ -41,19 +41,24 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" align="left" style="margin-right: 20px">
-  
-  <p align="left">
+  <div style="text-align: left;">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
-  </p>
-  
-  <p align='Right'>
+  </div>
+
+  <div style="clear: both;"></div>
+
+  <p align='right' style="margin-left: 20px;">
     <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
   </p>
 </div>
 
+<div align="right" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+</div>
+
 <hr>
 <br>
+
 
 
 
