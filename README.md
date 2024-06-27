@@ -8,7 +8,7 @@
 
 <div align="center">
   <div style="text-align: left;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%232336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ali+Muhammad;Information+Technology+Student;%40chinmay29hub">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=433&height=75&lines=I'm+Ali+Muhammad;Information+Technology+Student;%40chinmay29hub">
   </div>
 
   <div style="clear: both;"></div>
