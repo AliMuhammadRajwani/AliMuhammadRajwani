@@ -74,14 +74,14 @@
 
 
 
-### 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
-🎉 **Animated Name:** ![Your Animated Name](https://example.com/your-animated-name.gif)
 
-🐍 **Animated Disco Snake:** ![Your Animated Disco Snake](https://example.com/your-animated-disco-snake.gif)
+## 🎨 **Check Out My Animated GitHub Profile!**
 
-👨‍💻 **About Me**: Welcome to my digital playground! I'm Ali Muhammed, a coding virtuoso with a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
-
+- **Animated Header:** ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20Profile!&fontSize=36)
+- **GitHub Stats:** ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+- **Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=dracula)
+- **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
 
 
 
