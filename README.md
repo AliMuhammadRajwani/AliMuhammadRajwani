@@ -6,6 +6,10 @@
 
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
+- Mr Robot
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br>
+
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
 
 👨‍💻 **About Me**: Welcome to my digital playground! I'm Ali Muhammed, a coding virtuoso with a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
