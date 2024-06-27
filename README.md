@@ -1,37 +1,3 @@
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
-
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
-</p>
-
-<p align='center'>
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
-
-<hr>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="center">
