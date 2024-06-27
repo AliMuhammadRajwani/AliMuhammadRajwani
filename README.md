@@ -31,3 +31,20 @@
 
 
 
+## Hello, I'm Ali Muhammad! 👋
+
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning React and advanced algorithms.
+- 💬 Ask me about anything related to web development and software engineering.
+
+### GitHub Stats
+
+![Ali Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+### Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+
+### Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/your_profile) | [Twitter](https://twitter.com/your_profile)
