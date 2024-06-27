@@ -30,7 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=hi%20🌟%20GitHub%20Maestro%20|%20Code%20Artisan%20|%20Digital%20Maverick%20🚀;%20-%20Mr%20Robot">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+
 </p>
 
 <p align='center'>
