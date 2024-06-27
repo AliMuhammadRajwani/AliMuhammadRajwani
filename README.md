@@ -18,27 +18,6 @@
   </p>
 </div>
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
-<div align="right" style="margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
-</div>
-
-<hr>
-<br>
-
-
-
-
-
-
-
-
-
-hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
-
-- Mr Robot
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-<br><br>
-
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
 
 👨‍💻 **About Me**: Welcome to my digital playground! I'm Ali Muhammed, a coding virtuoso with a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
@@ -54,6 +33,14 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 🔒 **Cybersecurity & Networking**: Armed with the shield of cybersecurity and the sword of networking prowess, I embark on daring quests to safeguard digital realms and forge connections that transcend borders.
 
 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
+<div align="right" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+</div>
+
+<hr>
+<br>
+
+
 
 ### 💻 **Programming & Web Design Skills**
 
