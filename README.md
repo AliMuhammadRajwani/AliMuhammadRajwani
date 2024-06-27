@@ -16,13 +16,29 @@
 <hr>
 <br>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=chinmay29hub" alt="Profile Views">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/chinmay29hub?style=social" alt="GitHub Followers">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=hi%20🌟%20GitHub%20Maestro%20|%20Code%20Artisan%20|%20Digital%20Maverick%20🚀;%20-%20Mr%20Robot">
+</p>
+
+<p align='center'>
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+
+<hr>
+<br>
 
 
 
@@ -30,7 +46,12 @@
 
 
 
- 
+
+
+
+
+
+
 
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
