@@ -37,24 +37,6 @@ elegant algorithms to stunning visualizations, I craft code that's as beautiful 
 | **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
 | **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
-hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀               
-
-
-
-
-### 💻 Programming & Web Design Skills
-
-| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
-|-----------------------------|----------------------|---------------------------|
-| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **Python**                  | ⭐⭐⭐⭐                | General Development        |
-| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
-
-
-
 <hr>
 <br>
 
