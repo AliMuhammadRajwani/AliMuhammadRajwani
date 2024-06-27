@@ -35,8 +35,9 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 | **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
 <div align="right" style="margin-top: 20px;">
-  <img src="https://example.com/animated-robot.gif" width="100">
+  <img src="https://example.com/animated-robot.gif" width="150">
 </div>
+
 
 
 <hr>
