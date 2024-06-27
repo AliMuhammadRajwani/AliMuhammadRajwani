@@ -42,3 +42,15 @@
 - **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
 
 https://textanim.com/path-to-your-animated-text.gif
+
+
+## 🎨 **Check Out My Animated GitHub Profile!**
+
+[![Animated Header](https://i.ibb.co/bBbjQ57/Ali-Muhammad.gif)](https://ibb.co/bBbjQ57)
+
+- **GitHub Stats:** ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+- **Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=dracula)
+
+- **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
+- 
