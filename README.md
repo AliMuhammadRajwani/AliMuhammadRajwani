@@ -17,7 +17,7 @@
     <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
   </p>
 </div>
-
+hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 <div align="right" style="margin-top: 20px;">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
 </div>
