@@ -69,3 +69,45 @@ Hello, I'm Ali Muhammad, a passionate CS student exploring the wonders of techno
 - [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
 - [Twitter](https://twitter.com/YOUR_PROFILE)
 - Email: yourname@example.com
+
+
+
+
+##  **Welcome to My Animated GitHub Profile!**
+
+![Animated Header](https://i.ibb.co/bBbjQ57/Ali-Muhammad.gif)
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  var typed = new Typed('.animated-text', {
+    strings: ["Welcome to my profile!"],
+    typeSpeed: 40,
+    loop: true,
+  });
+</script>
+
+<span class="animated-text"></span>  ###  **Technology Skills**
+
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Flask
+- **Databases:** MySQL, MongoDB
+
+<svg class="animated-icon" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
+  <path fill="none" stroke="#000" stroke-width="5" d="M..." />  <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="2s" repeatCount="indefinite" />
+</svg>  ... (rest of your profile)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
