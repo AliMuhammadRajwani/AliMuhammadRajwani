@@ -13,11 +13,16 @@
 - 🎯 Portfolio website: [Portfolio](https://jarvisx17.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Deep Learning 🔥
-- Machine Learning 🧐
-- Data Science 😬
+### 💻 Programming & Web Design Skills
+
+| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
+|-----------------------------|----------------------|---------------------------|
+| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **Python**                  | ⭐⭐⭐⭐                | General Development        |
+| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=jarvisx17&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
