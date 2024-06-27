@@ -8,10 +8,10 @@
 <img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
 
 ### Hey, This is Ali Muhammad 👋
-[![Linkedin Badge](https://img.shields.io/badge/-jigneshpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jignesh-patel-63279b190/)](https://www.linkedin.com/in/jignesh-patel-63279b190/)
-[![Gmail Badge](https://img.shields.io/badge/-jignesh.astl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jignesh.astl@gmail.com)](mailto:jignesh.astl@gmail.com) 
+[![Linkedin Badge]
+[![Gmail Badge]
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarvisx17" alt="jarvisx17" /> </p>
+
 </br>
 
 - 🎯 Portfolio website: [Portfolio](https://jarvisx17.github.io/)
