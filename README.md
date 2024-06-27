@@ -4,21 +4,6 @@
 	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
 </p>
 
-
-### 💻 **Programming & Web Design Skills**
-
-| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
-|-----------------------------|----------------------|---------------------------|
-| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **Python**                  | ⭐⭐⭐⭐                | General Development        |
-| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
-
-
-[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
-
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
@@ -36,6 +21,17 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 🔒 **Cybersecurity & Networking**: Armed with the shield of cybersecurity and the sword of networking prowess, I embark on daring quests to safeguard digital realms and forge connections that transcend borders.
 
 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
+
+### 💻 **Programming & Web Design Skills**
+
+| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
+|-----------------------------|----------------------|---------------------------|
+| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **Python**                  | ⭐⭐⭐⭐                | General Development        |
+| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
 <table>
   <tr>
