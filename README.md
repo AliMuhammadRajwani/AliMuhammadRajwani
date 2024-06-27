@@ -34,9 +34,8 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 | **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
 | **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
-<div align="right">
-  <img src="https://example.com/animated-robot.gif" width="150">
-</div>
+<div align="right" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
 
 
 <hr>
