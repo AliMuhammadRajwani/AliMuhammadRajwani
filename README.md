@@ -1,3 +1,7 @@
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
@@ -15,13 +19,6 @@
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
 <br>
-<div align="center">
-<p>
-	<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=9ce9cc&l2=3fc5b0&l3=30a095&l4=2d9d8f&comment=&bg=none&frame=none"></a>
-</p>
-
-
-
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 - Mr Robot
