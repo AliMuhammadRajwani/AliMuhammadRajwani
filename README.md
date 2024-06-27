@@ -41,3 +41,4 @@
 
 - **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
 
+https://textanim.com/path-to-your-animated-text.gif
