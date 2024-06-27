@@ -85,6 +85,17 @@
 
 
 
+## 🎨 **Check Out My Animated GitHub Profile!**
+
+- **Animated Header:** ![Animated Header](https://github.com/USERNAME/USERNAME)
+
+- **GitHub Stats:** ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+- **Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=dracula)
+
+- **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
+
+
 
 
 
