@@ -41,3 +41,31 @@
 
 - **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) | [Twitter](https://twitter.com/YOUR_PROFILE)
 - 
+## 🚀 **Welcome to My Animated GitHub Profile!**
+
+![Animated Header](https://i.ibb.co/bBbjQ57/Ali-Muhammad.gif)
+
+Hello, I'm Ali Muhammad, a passionate CS student exploring the wonders of technology and design.
+
+![Animated Icon](https://assets5.lottiefiles.com/packages/lf20_aRQ8em.json)
+
+### 💻 **Technology Skills**
+
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Flask
+- **Databases:** MySQL, MongoDB
+
+- **GitHub Stats:** ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+- **Activity Graph:** ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=dracula)
+
+### 🌟 **Highlighted Projects**
+
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+
+### 📫 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+- [Twitter](https://twitter.com/YOUR_PROFILE)
+- Email: yourname@example.com
