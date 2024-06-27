@@ -25,8 +25,9 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
 
 <div align="right" style="margin-top: 20px;">
-  <img src="https://example.com/animated-robot.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
 </div>
+
 ### 💻 Programming & Web Design Skills
 
 | **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
