@@ -23,29 +23,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
   </a>
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-
-</p>
-
-<p align='center'>
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" align="left" style="margin-right: 20px">
+  
+  <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
+  </p>
+  
+  <p align='left'>
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+  </p>
+</div>
 
 <hr>
 <br>
-
-
-
-
-
-
 
 
 
