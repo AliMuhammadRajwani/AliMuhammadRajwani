@@ -8,11 +8,6 @@
 <img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
 
 ### Hey, This is Ali Muhammad 👋
-[![Linkedin Badge]
-[![Gmail Badge]
-<br>
-
-</br>
 
 - 🎯 Portfolio website: [Portfolio](https://jarvisx17.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
