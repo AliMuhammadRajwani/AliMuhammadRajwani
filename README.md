@@ -23,6 +23,10 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 🔒 **Cybersecurity & Networking**: Armed with the shield of cybersecurity and the sword of networking prowess, I embark on daring quests to safeguard digital realms and forge connections that transcend borders.
 
 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
+
+<div align="right" style="margin-top: 20px;">
+  <img src="https://example.com/animated-robot.gif" width="150">
+</div>
 ### 💻 Programming & Web Design Skills
 
 | **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
@@ -33,10 +37,6 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 | **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
 | **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
 | **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
-
-<div align="right" style="margin-top: 20px;">
-  <img src="https://example.com/animated-robot.gif" width="150">
-</div>
 
 
 
