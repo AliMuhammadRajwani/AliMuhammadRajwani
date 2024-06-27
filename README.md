@@ -244,16 +244,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
     <th><a href="source/plugins/code/README.md">♐ Random code snippet</a></th>
     <th><a href="source/plugins/gists/README.md">🎫 Gists</a></th>
   </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.gists.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
+
   <tr>
     <th><a href="source/plugins/projects/README.md">🗂️ GitHub projects</a></th>
     <th><a href="source/plugins/introduction/README.md">🙋 Introduction</a></th>
