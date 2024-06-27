@@ -5,9 +5,21 @@
 </p>
 
 
-hi### 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
+### 💻 **Programming & Web Design Skills**
+
+| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
+|-----------------------------|----------------------|---------------------------|
+| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **Python**                  | ⭐⭐⭐⭐                | General Development        |
+| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 
 
+[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
+
+hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
 
@@ -24,29 +36,6 @@ hi### 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 🔒 **Cybersecurity & Networking**: Armed with the shield of cybersecurity and the sword of networking prowess, I embark on daring quests to safeguard digital realms and forge connections that transcend borders.
 
 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
-
----
-
-### 💻 **Programming & Web Design Skills**
-
-| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
-|-----------------------------|----------------------|---------------------------|
-| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **Python**                  | ⭐⭐⭐⭐                | General Development        |
-| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
-
-
-
-
-
-# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
-
-[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
-
-Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
 <table>
   <tr>
