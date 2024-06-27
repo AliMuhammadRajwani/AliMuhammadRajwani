@@ -5,7 +5,7 @@
 </p>
 <!--img align="right" src="https://media.giphy.com/media/nKWDeysTQBv9u/giphy.gif" alt="Coder GIF" width="420" height="330">
 <!-- https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif -->
-<img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gifhttps://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="400">
 
 ### Hey, This is Ali Muhammad 👋
 
