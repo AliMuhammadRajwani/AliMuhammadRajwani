@@ -628,4 +628,3 @@ Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for 
   />
 </picture>
 
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
