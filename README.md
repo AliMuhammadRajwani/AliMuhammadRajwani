@@ -1,4 +1,4 @@
-### 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
+hi### 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
 
@@ -78,3 +78,52 @@
 | ![Dr. Octocat](/Media/Badges/Dr-Octocat/PNG/DrOctocat.png) | Dr. Octocat | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Dr-Octocat/PNG/DrOctocat.png" width="60px"></td>   <td><img src="/Media/Badges/Dr-Octocat/PNG/DrOctocat_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Dr-Octocat/PNG/DrOctocat_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Dr-Octocat/PNG/DrOctocat_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
 | ![Grateful User](/Media/Badges/Grateful-User/PNG/GratefulUser.png) | Grateful User | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Grateful-User/PNG/GratefulUser.png" width="60px"></td>   <td><img src="/Media/Badges/Grateful-User/PNG/GratefulUser_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Grateful-User/PNG/GratefulUser_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Grateful-User/PNG/GratefulUser_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table>      |
 | ![Code Reviewer](/Media/Badges/Code-Reviewer/PNG/CodeReviewer.png) | Code Reviewer | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Code-Reviewer/PNG/CodeReviewer.png" width="60px"></td>   <td><img src="/Media/Badges/Code-Reviewer/PNG/CodeReviewer_Bronze.png
+
+
+
+
+
+
+
+
+
+<!-- GitHub Achievements -->
+<div align="center">
+
+# 🏆 GitHub Achievements 🏆
+
+<br>
+
+![GitHub achievements](https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png)
+
+</div>
+
+<br>
+
+# 🏅 Displaying Achievements 🏅
+
+#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+
+#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+
+<br>
+
+# 📃 Achievement List 📃
+
+| Badge | Name | How to get | Needed amount | 
+| :-: | :-: | :-: | :-: |
+| ![Heart On Your Sleeve](https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png) | Heart On Your Sleeve | (???) | (???) |
+| ![Open Sourcerer](https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png) | Open Sourcerer | (???) | (???) |
+| ![Starstruck](https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png) | Starstruck | (???) | (???) |
+| ![Quickdraw](https://user-images.githubusercontent.com/65187002/172941334-27e5fde0-0ee1-4d5e-98d1-2f18c55b350e.png) | Quickdraw | (???) | (???) |
+| ![Pair Extraordinaire](https://user-images.githubusercontent.com/65187002/172941437-3c5c8b9e-23cd-4e9b-b6e4-364e72c7e04d.png) | Pair Extraordinaire | (???) | (???) |
+| ![Pull Shark](https://user-images.githubusercontent.com/65187002/172941559-c3e3cd0a-5e8b-4964-aa06-b23bc56df81d.png) | Pull Shark | (???) | (???) |
+| ![Bug Hunter](https://user-images.githubusercontent.com/65187002/172941663-13a1a6d0-bf11-40f6-9c82-82604d4df38e.png) | Bug Hunter | (???) | (???) |
+| ![Dr. Octocat](https://user-images.githubusercontent.com/65187002/172941727-ee12bf89-6127-4d85-b50a-85b9b93b0a8d.png) | Dr. Octocat | (???) | (???) |
+| ![Grateful User](https://user-images.githubusercontent.com/65187002/172941790-7a7326e8-3401-4f95-8da6-8f6e84df4934.png) | Grateful User | (???) | (???) |
+| ![Code Reviewer](https://user-images.githubusercontent.com/65187002/172941848-04f49b38-968d-4e5d-a2c0-4e1f7f876342.png) | Code Reviewer | (???) | (???) |
+| ![My Way](https://user-images.githubusercontent.com/65187002/172941911-9f0672ac-0b6e-4b9e-a29b-dc95d0ab830f.png) | My Way | (???) | (???) |
+| ![Surefooted](https://user-images.githubusercontent.com/65187002/172942004-035e94ed-8a14-45f0-8c1c-3d1b83d45cc3.png) | Surefooted | (???) | (???) |
+| ![Persistent](https://user-images.githubusercontent.com/65187002/172942073-d8a197e3-d151-4df4-a446-6a0c53a7e38e.png) | Persistent | (???) | (???) |
+
+<br>
