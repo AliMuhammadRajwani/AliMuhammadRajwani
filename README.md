@@ -43,19 +43,6 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 
 
- 💻 **Programming & Web Design Skills**
-
-| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
-|-----------------------------|----------------------|---------------------------|
-| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **Python**                  | ⭐⭐⭐⭐                | General Development        |
-| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
-| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
-
-
-
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
 [![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
