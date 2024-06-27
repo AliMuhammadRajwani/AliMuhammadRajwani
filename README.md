@@ -29,8 +29,8 @@
 
 | **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
 |-----------------------------|----------------------|---------------------------|
-| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
-| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **C++**                     | ⭐⭐⭐⭐⭐               | Programming|
+| **C#**                      | ⭐⭐⭐⭐⭐               | Programming|
 | **Python**                  | ⭐⭐⭐⭐                | General Development        |
 | **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
 | **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
