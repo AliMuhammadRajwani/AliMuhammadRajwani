@@ -6,17 +6,6 @@
   </a>
 </p>
 
-<div align="center">
-  <div style="text-align: left;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=433&height=75&lines=I'm+Ali+Muhammad;Information Technology +Student;%40chinmay29hub">
-  </div>
-
-  <div style="clear: both;"></div>
-
-  <p align='right' style="margin-left: 20px;">
-    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-  </p>
-</div>
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
