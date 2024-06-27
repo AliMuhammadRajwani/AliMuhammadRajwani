@@ -28,24 +28,22 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 </div>
 
 <hr>
+💻 **Programming & Web Design Skills**
+
+| **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
+|-----------------------------|----------------------|---------------------------|
+| **C++**                     | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **C#**                      | ⭐⭐⭐⭐⭐               | Programming, Web Development |
+| **Python**                  | ⭐⭐⭐⭐                | General Development        |
+| **HTML**                    | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **CSS**                     | ⭐⭐⭐⭐⭐               | Web Design                 |
+| **JavaScript**              | ⭐⭐⭐⭐⭐               | Web Design                 |
 <br>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-### 💻 **Programming & Web Design Skills**
+ 💻 **Programming & Web Design Skills**
 
 | **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
 |-----------------------------|----------------------|---------------------------|
