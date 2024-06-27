@@ -31,11 +31,6 @@
 
 
 
-https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=6c09b9528vngdafk97m66ten0qzdaqcgw4vt2cc5uh2rbm3q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s
-
-[![Animated Name](video-thumbnail.jpg)]( https://www.canva.com/design/DAGH-i6RBIU/xriWFaaJ65jWrr7RNQF4gw/watch?utm_content=DAGH-i6RBIU&utm_campaign=designshare&utm_medium=link&utm_source=editor )
-
-
 
 
 
