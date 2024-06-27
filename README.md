@@ -18,6 +18,7 @@
   </p>
 </div>
 hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
+
 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
 
 👨‍💻 **About Me**: Welcome to my digital playground! I'm Ali Muhammed, a coding virtuoso with a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
@@ -43,50 +44,6 @@ hi 🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀
 
 
 
-
-
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-</div>
-
----
-
-<div align="center">
-  <h2 style="color: #6abf69;">🌟 GitHub Maestro | Code Artisan | Digital Maverick 🚀</h2>
-  <p style="color: #6abf69;">
-
-  👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
-
-  👨‍💻 **About Me**: Welcome to my digital playground! I'm a coding virtuoso passionate about pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
-
-  💻 **Coding Canvas**: In GitHub's vast expanse, I paint with pixels and sculpt with syntax. Each repository is a canvas, and every commit is a stroke of creativity. Join me on this journey as we explore the artistry of code together.
-
-  🚀 **Recent Exploits**: With my trusty keyboard as my compass and lines of code as my guiding stars, I traverse programming, web design, cybersecurity, and networking realms, crafting digital wonders and unraveling mysteries in technology's evolving landscape.
-
-  🌌 **Beyond the Keyboard**: When not conjuring code, I enjoy electronic beats, exploring cosmos through a telescope, and embracing the latest tech gadgets. Life's an adventure, and I'm always ready for the next thrill.
-
-  💡 **Vision for GitHub**: As a GitHub Maestro, I envision boundless collaboration and limitless creativity. Let's unite, ignite imaginations, and build an innovative future together.
-
-  🔒 **Cybersecurity & Networking**: Armed with cybersecurity's shield and networking's sword, I safeguard digital realms and forge connections transcending borders.
-
-  🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and possibilities are as infinite as stars in the night sky.
-
-  </p>
-</div>
-
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
-</div>
 
 
 
