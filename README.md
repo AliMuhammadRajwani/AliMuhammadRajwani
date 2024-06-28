@@ -15,7 +15,7 @@
 
 
 
- Hey, This is Alimuhammad Rajwani 👋
+### Hey, This is Alimuhammad Rajwani 👋
 
 - 👋 Greetings, fellow tech voyagers! I'm Alimuhammad Rajwani, a dedicated BSIT student at Sir Syed University.
 - 👨‍💻 Welcome to my digital playground! I have a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
