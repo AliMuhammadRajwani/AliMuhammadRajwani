@@ -82,8 +82,6 @@
 
 
 
-
-
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
@@ -131,3 +129,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## 🎨 More Animated Fun
+
+![Coder GIF](https://media.giphy.com/media/nKWDeysTQBv9u/giphy.gif)
+
+![Matrix Code Rain](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+
+![Hacker GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
+
+  
