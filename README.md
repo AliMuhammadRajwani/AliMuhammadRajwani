@@ -133,14 +133,14 @@ ___________
 
 ---
 
+## 📊 Profile & Repository Statistics
+
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical" alt="GitHub Streak" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" height="180em">
 </div>
-
----
 
 <!-- Additional Badges -->
 <br>
