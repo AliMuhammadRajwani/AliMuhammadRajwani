@@ -16,6 +16,7 @@
 
 
 
+# Hey, This is Alimuhammad Rajwani 👋
 - 👋 Greetings, fellow tech voyagers! I'm Alimuhammad Rajwani, a dedicated BSIT student at Sir Syed University.
 - 👨‍💻 Welcome to my digital playground! I have a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
 - 💻 In the vast expanse of GitHub, I paint with pixels and sculpt with syntax. Each repository is a canvas, and every commit is a stroke of creativity. Join me on this journey as we explore the artistry of code together.
