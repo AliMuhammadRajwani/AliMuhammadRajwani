@@ -30,6 +30,9 @@
 
 ## 💻 Programming & Web Design Skills
 
+<br>
+
+
 | **Language/Technology**     | **Proficiency**      | **Key Areas**                 |
 |-----------------------------|----------------------|---------------------------|
 | **C++**                     | ⭐⭐⭐⭐⭐               | Programming           |
