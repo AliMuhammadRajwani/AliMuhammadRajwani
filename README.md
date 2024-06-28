@@ -78,7 +78,6 @@
 
 
 
-
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
@@ -87,11 +86,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="200">
 
-#### Hey, This is Ali Muhammad 👋
+# Hey, This is Alimuhammad Rajwani 👋
 
-- ⚡ Fun fact: The first rule of programming - if it works, don’t touch it. 🤓
-- 👋 Greetings, fellow tech voyagers! I'm Ali Muhammed, a relentless explorer navigating the digital cosmos as a dedicated BSIT student at Sir Syed University.
-- 👨‍💻 Welcome to my digital playground! I'm Ali Muhammed, a coding virtuoso with a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
+- 👋 Greetings, fellow tech voyagers! I'm Alimuhammad Rajwani, a dedicated BSIT student at Sir Syed University.
+- 👨‍💻 Welcome to my digital playground! I have a passion for pushing the boundaries of technology and design. From elegant algorithms to stunning visualizations, I craft code that's as beautiful as it is functional.
 - 💻 In the vast expanse of GitHub, I paint with pixels and sculpt with syntax. Each repository is a canvas, and every commit is a stroke of creativity. Join me on this journey as we explore the artistry of code together.
 - 🚀 With my trusty keyboard as my compass and lines of code as my guiding stars, I traverse the realms of programming, web design, cybersecurity, and networking, crafting digital wonders and unraveling mysteries in the ever-evolving landscape of technology.
 - 🌌 When I'm not busy conjuring code, you'll find me lost in the melodies of electronic beats, exploring the cosmos through a telescope, or indulging in the latest tech gadgets. Life is an adventure, and I'm always ready for the next thrill.
@@ -117,21 +115,21 @@
 ## 📊 Profile & Repository Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlimuhammadRajwani&show_icons=true&theme=radical" alt="GitHub Stats" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical" alt="GitHub Streak" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" width="500">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
 </p>
 
 <picture>
