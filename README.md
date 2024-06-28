@@ -101,7 +101,6 @@
 
 
 
-
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hey,%20Developer!%20%20%20&l0=none&l1=6abf69&l2=48ab54&l3=3b9a48&l4=348840&comment=&bg=none&frame=none">
@@ -121,8 +120,6 @@
 - 🔒 Armed with the shield of cybersecurity and the sword of networking prowess, I embark on daring quests to safeguard digital realms and forge connections that transcend borders.
 - 🌟 Join me on this exhilarating journey through bytes and bits, where innovation knows no bounds and the possibilities are as infinite as the stars in the night sky.
 
----
-
 ## 💻 Programming & Web Design Skills
 
 | **Language/Technology** | **Proficiency** | **Key Areas**         |
@@ -134,8 +131,6 @@
 | **CSS**                 | ⭐⭐⭐⭐⭐          | Web Design            |
 | **JavaScript**          | ⭐⭐⭐⭐⭐          | Web Design            |
 
----
-
 ## 📊 Profile & Repository Statistics
 
 <div align="center">
@@ -143,8 +138,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlimuhammadRajwani&theme=radical" alt="GitHub Streak" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" height="180em">
 </div>
-
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
@@ -155,9 +148,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
-
-
-
-
 
