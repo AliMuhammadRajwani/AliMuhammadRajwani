@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimuhammadRajwani&layout=compact&theme=radical" alt="Top Languages" height="180em">
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
-</p>
-
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
